@@ -1,0 +1,5 @@
+GeraTabela.class
+br\com\jiva\controlefinanceiro\model\dao\FinanceiroDAO.class
+br\com\jiva\controlefinanceiro\model\vo\Financeiro.class
+br\com\jiva\controlefinanceiro\controller\FinanceiroController.class
+br\com\jiva\controlefinanceiro\model\dao\JPAFinanceiroDAO.class
